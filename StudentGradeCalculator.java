@@ -5,7 +5,7 @@ public class StudentGradeCalculator {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the marks obtained in each subject below:");
       
-        //Taking input of marks in all he subjects
+        //Taking input of marks in all the subjects
 
         System.out.print("Marks obtained in Mathematics--->");
         int marksMaths=sc.nextInt();
